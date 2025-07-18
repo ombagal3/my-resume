@@ -1,2 +1,2 @@
 # resume-new
-My Resume from Complete Fullstack Development Course
+My Resume from Fullstack Development Course
